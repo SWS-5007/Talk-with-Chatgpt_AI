@@ -1,4 +1,4 @@
-# talk-to-chatgpt
+# Talk-to-Chatgpt
 Talk To ChatGPT
 
 1. Download all Modules (ex Pip install OpenAI)
